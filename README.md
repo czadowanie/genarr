@@ -2,8 +2,8 @@
 
 Radically tiny generational array implementation. The
 way it differs from (slotmap)[https://docs.rs/slotmap/latest/slotmap/]
-is both in size and the fact that it uses untyped keys/indices
-- thus sort of eliminating the need for secondary maps.
+is both in size and the fact that it uses untyped 
+keys/indices - thus sort of eliminating the need for secondary maps.
 
 I published this one because I've been copying this file
 from project to project and thought it'd be nice to have it
