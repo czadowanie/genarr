@@ -1,7 +1,7 @@
 # Genarr
 
 Radically tiny generational array implementation. The
-way it differs from (slotmap)[https://docs.rs/slotmap/latest/slotmap/]
+way it differs from [slotmap](https://docs.rs/slotmap/latest/slotmap/)
 is both in size and the fact that it uses untyped 
 keys/indices - thus sort of eliminating the need for secondary maps.
 
